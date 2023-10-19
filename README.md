@@ -55,3 +55,5 @@ The **p-value, which is greater than the chosen alpha level (i.e., 0.29 > 0.05)
 There is **no statistically significant association between the number of funding rounds and the status of startups,** as indicated by the Chi-Square Test of Independence.
 
 ## THANK YOU!! :)
+
+View my project in Notion : https://windy-geese-6b2.notion.site/Hypothesis-Testing-4be9c8d45e2347a3a9e2e29a6ca1d734?pvs=4

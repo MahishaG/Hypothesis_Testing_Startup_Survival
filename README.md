@@ -13,7 +13,7 @@ The dataset comprises of the information about startups in India.
 
 📌 **DATASET** *: https://www.kaggle.com/datasets/yanmaksi/big-startup-secsees-fail-dataset-from-crunchbase* *(Filter on country and status column)*
 
-# **HYPOTHESIS TESTING I:**
+## **HYPOTHESIS TESTING I:**
 
 **Mean Funds Raised**
 
@@ -21,7 +21,7 @@ The dataset comprises of the information about startups in India.
 
 💡 **Alternative Hypothesis (H1):** There is a statistically significant difference in the mean funds raised by currently operating startups and startups that have closed.
 
-# **HYPOTHESIS TESTING II:**
+## **HYPOTHESIS TESTING II:**
 
 **Number of Funding Rounds**
 

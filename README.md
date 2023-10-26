@@ -33,14 +33,14 @@ The dataset comprises of the information about startups in India.
 
 ### Reasons for choosing the below-mentioned statistical tests 📢
 
-⏬ **INDEPENDENT T-TEST UNKNOWN VARIANCE ASSUMED TO BE EQUAL**
+⏬ [**INDEPENDENT T-TEST UNKNOWN VARIANCE ASSUMED TO BE EQUAL**](https://www.notion.so/Hypothesis-Testing-4be9c8d45e2347a3a9e2e29a6ca1d734?pvs=21)
 
 - Two separate and independent groups which **are distinct and unrelated in terms of their current status.**
 - T-test is designed for **comparing means of continuous numerical data.**
 - The t-test assumes that the **data within each group follows a normal distribution.**
 - **Homogeneity of Variance:** We must check that using **Levene’s Test.**
 
-⏬ **LEVENE’S TEST**
+⏬ [**LEVENE’S TEST**](https://www.notion.so/Hypothesis-Testing-4be9c8d45e2347a3a9e2e29a6ca1d734?pvs=21)
 
 - The Levene's Test is a statistical test used to **assess whether the variances of two or more groups are equal or homogenous.**
 
